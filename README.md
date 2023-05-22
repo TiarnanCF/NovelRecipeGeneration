@@ -3,4 +3,4 @@ Novel recipe generation using an ingredient network generated from the CulinaryD
 
 This repository contains a project report, summary and the code used. Within the code folder, you will find the project code contained in the jupyter notebook, "Project.ipynb".
 
-Please note, all code in the WSBM folder was kindly provided by the creators of the WSBM. 
+Please note, all code in the folder "WSBM_v_1.3" was kindly provided by the creators of the WSBM. 
