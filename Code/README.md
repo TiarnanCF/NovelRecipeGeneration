@@ -9,3 +9,5 @@ A summary of what each folder contains.
 ./params_global contans the final parameters proposed by the WSBM
 
 ./params contains a subset of those parameters for only certain layers of the network which I focused on in this project.
+
+./Project.ipynb contains the Python code used to construct and explore the network.
